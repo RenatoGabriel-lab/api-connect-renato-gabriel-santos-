@@ -1,0 +1,17 @@
+{
+  "name": "api-usuarios",
+  "version": "1.0.0",
+  "description": "API REST de gerenciamento de usuários",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
