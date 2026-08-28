@@ -26,6 +26,8 @@ Oferecer uma interface de serviço para a realização de operações fundamenta
 
 A aplicação aplica o padrão de Separação de Responsabilidades (SoC), dividindo o ecossistema nas seguintes pastas:
 
+<img width="635" height="275" alt="image" src="https://github.com/user-attachments/assets/13fa0224-482f-46e2-8e8a-4055f2bcb1c4" />
+
 
 api-connect/
 ├── node_modules/
